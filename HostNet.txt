@@ -1,0 +1,8 @@
+netsh wlan set hostednetwork mode=allow ssid=ZK key=22170345
+
+netsh wlan start hostednetwork
+
+netsh wlan stop hostednetwork
+
+t/CYYBZIZT/
+ENZDJCLB/
